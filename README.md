@@ -4,9 +4,10 @@ This chart follows directly from the 'Data Exploration' in R Project and combine
 
 <h2> Design: Round 1 </h2>
 
-I initially made my designs on Tableau, so that they would be easily shareable on all my colleagues' computer. Here are the links:
-https://public.tableau.com/profile/abhishek.pandit1694#!/vizhome/Anandshala_Sample/Disparity?publish=yes
-Here was the initial set of decisions:
+I initially made my designs on Tableau, which certainly places less demands on coding skills:
+<br>https://public.tableau.com/profile/abhishek.pandit1694#!/vizhome/Anandshala_Sample/Disparity?publish=yes</br>
+
+Accordingly, when converting to Dimple.js, here was the initial set of decisions:
 
 <h3>Chart Type</h3>
 The visualization would be a combination of two charts. 
@@ -47,7 +48,7 @@ After an initial design, I sent it out to some colleagues in email with the foll
 <h3> Colleague 1 </h3>
 Well, i see that as there is increase in students, there is decrease in performance (exam) at the same time, for grade 5-6.
 Initially it took me 4 mins to understand the graph then I could understand.
-The main takeaway is the rise in number of students as positive, the decrease in result as negative
+The main takeaway is the rise in number of students as positive, the decrease in result as negative.
 Yes, definitely this can be made better by following a visual color palette, color tint difference between blocks(i.e. color grows darker from one block to another.) and the trend line in contrast color.or use padding between the blocks. 
 
 <h3> Colleague 2 </h3> 
@@ -65,6 +66,7 @@ What did I realize from this process?
 <ul>
   <li> At a very obvious level, I didn't want to be misleading. The scale for academic performance had to be from 0 to 100%</li>
   <li> Adding any informatin about Blocks would cause visual overload </li>
+<li> I was leaving too much on the table for interpretation. Which I why some colleagues were even deciding what story should be told. But that wasn't the narrative structure I had in mind </li> 
   <li> No one was 'getting' the trend I wanted them to see, unless I forced them to! </li>
 
 
