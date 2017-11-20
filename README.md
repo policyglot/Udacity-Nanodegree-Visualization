@@ -20,7 +20,7 @@ The chart is a simple line chart, so we have:
 	<li> Position Y- The number (count) of students in that grade </li>
 </ol>
 
-<br>For Chart 12: 
+<br>For Chart 2: 
 <ol><li> Position X- The school grade </li>
 	<li> Position Y- The average academic score in that grade</li>
 </ol>
@@ -44,13 +44,13 @@ After an initial design, I sent it out to some colleagues in email with the foll
 <li> What could make it prettier/ easier to understand?</li>
   </ul>
 
-<h3> Colleague 1 </h3>:
+<h3> Colleague 1 </h3>
 Well, i see that as there is increase in students, there is decrease in performance (exam) at the same time, for grade 5-6.
 Initially it took me 4 mins to understand the graph then I could understand.
 The main takeaway is the rise in number of students as positive, the decrease in result as negative
 Yes, definitely this can be made better by following a visual color palette, color tint difference between blocks(i.e. color grows darker from one block to another.) and the trend line in contrast color.or use padding between the blocks. 
 
-<h3> Colleague 2 </h3>: 
+<h3> Colleague 2 </h3> 
 Hmm... I see a steep rise in enrolment from 5 to 6 grades; a decline in enrolment from grade 7 to 8 (besides Khanpur, the others like less stark / negligible). 
 For the marks section, why doesn't the Y axis show till 100%; a line high on the graph seems misleading at first sight, especially since it's showing in percentage.
 Also why is the first grade colored differently?
@@ -69,8 +69,8 @@ What did I realize from this process?
 
 
 <h2> Design Round 2 </h2>
-<i>AFTER FEEDBACK</i>
-I realized that the movement through time was not evident in the graph. It just appeared as a static line. So the line segment between grades 5 and 6 had had to be highlighted with vertical lines. Almost all my colleagues had asked me immediately what those lines and the shaded area between them represented. Then, as an experiment, I showed them what the graph would look like without the lines. They admitted that the movement would not be obvious. So we were in a catch-22 situation. Couldn't do with the line, couldn't do without it either.
+
+After going through feedback, I realized that the movement through time was not evident in the graph. It just appeared as a static line. So the line segment between grades 5 and 6 had had to be highlighted with vertical lines. Almost all my colleagues had asked me immediately what those lines and the shaded area between them represented. Then, as an experiment, I showed them what the graph would look like without the lines. They admitted that the movement would not be obvious. So we were in a catch-22 situation. Couldn't do with the line, couldn't do without it either.
 
 That's when I decided to overhaul the process to a great extent. I wanted the moments through grades to be shown as a story. So animation had to enter the picture. Also, not all data points had to be shown at once. If viewers understood that a large movement had occurred, that too would be sufficient.
 
